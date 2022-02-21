@@ -1,0 +1,62 @@
+/*ids*/
+#principal {
+	border: none;
+	color: white;
+	width: 900px;
+}
+
+#menu {
+	background: url('imagens/rosa-escuro.jpg');
+	color: white ;
+	padding: 18px;
+}
+
+#conteudo {
+	background: #FFE0E0;
+	color: black;
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+
+/*classes*/
+.titulos {
+	color: #DD4040;
+	font-size: 25px;
+}
+
+.subtitulos{
+	font-size: 18px;
+}
+
+.centralizar {
+	text-align: center;
+}
+
+.aesquerda {
+	text-align: left;
+}
+
+.campanhas {
+	width: 400px;
+	border: 10px solid #D26060;
+}
+/*-----*/
+body {
+	background: url('imagens/rosa-claro.jpg');
+	font: 16px "Verdana";
+}
+
+a {
+	color: white;
+	text-decoration: none; /*tira o underline do link*/
+	font-weight: bold;
+	padding: 5px;
+}
+
+h1 {
+	color: #4f270a;
+	font-size: 1.2em;
+}
